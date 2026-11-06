@@ -1,0 +1,39 @@
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic-settings
+
+# Database
+sqlalchemy
+psycopg[binary]
+alembic
+
+# Data processing
+pandas
+openpyxl
+numpy
+
+# Analytics
+scikit-learn
+
+# AI
+openai
+
+# Dashboard
+streamlit
+plotly
+requests
+
+# Reporting
+reportlab
+
+# Automation
+apscheduler
+
+# Utilities
+python-dotenv
+
+# Testing
+pytest
+httpx
